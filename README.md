@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sampath</h1>
 <h3 align="center">I am an undergraduate studying Software Engineering at Sabaragamuwa University of Sri Lanka and a full-stack developer.</h3>
 
-- 👯 I’m looking to collaborate on **Multi-hub**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
