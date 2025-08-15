@@ -11,9 +11,9 @@
   👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Open Source projects.</div><br/><br/>
 <!-- DYNAMIC STATS -->
 <p align="center">
-  •<img alt="profile views" src="https://komarev.com/ghpvc/?username=sampathmenuka&style=flat&color=blue"></a>
-  •<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/sampathmenuka?label=Followers&style=social"> 
-  •<img src="https://img.shields.io/github/stars/sampathmenuka?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> </a>
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=sampathmenuka&style=flat&color=blue"></a>
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/sampathmenuka?label=Followers&style=social"> 
+  <img src="https://img.shields.io/github/stars/sampathmenuka?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> </a>
   </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=sampathmenuka&theme=dark&hide_border=false" alt="GitHub Streak" width="500" height="200"/>
