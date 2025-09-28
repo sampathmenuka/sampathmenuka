@@ -12,4 +12,22 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sampathmenuka&icon=2&color=0)](https://visitcount.itsvg.in)
 
+## 📊 GitHub Stats
+
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampathmenuka&theme=dark&hide_border=false&layout=compact" 
+    alt="Top Languages" 
+    width="500" 
+    height="200"
+  />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=sampathmenuka&theme=dark&hide_border=false" 
+    alt="GitHub Streak" 
+    width="500" 
+    height="200"
+  />
+</p>
+
 </div>
