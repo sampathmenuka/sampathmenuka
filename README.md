@@ -1,33 +1,121 @@
-# 💫 About Me
-🔭 I’m currently a Software Engineering undergraduate at Sabaragamuwa University of Sri Lanka.<br><br>🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 Java development.<br><br>👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Open Source projects.
-
 <div align="center">
-  
-# 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sampath.menuk9) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sampath-menuka-chandimal-50588a248) &nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sampathwgw) &nbsp; [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pasindusmc909) &nbsp; [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sampath.m.chandimal99@gmail.com) 
 
-# 💻 Tech Stack
-</br> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) &nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) &nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) &nbsp; ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) &nbsp; ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) &nbsp; ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) &nbsp; ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) &nbsp; ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) &nbsp; ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) &nbsp; ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) &nbsp; ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) &nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) &nbsp; ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) &nbsp; ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) &nbsp; ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) &nbsp; ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) &nbsp; ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+# � Hello, I'm Sampath Menuka Chandimal
+
+### Software Engineering Student | Full-Stack Developer | Open Source Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Java+Developer;Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sampathmenuka&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
+- 🎓 **Software Engineering Undergraduate** at Sabaragamuwa University of Sri Lanka
+- 💻 **Currently Learning:** Advanced Java Development & Spring Framework
+- 🤝 **Looking to Collaborate:** Open Source Projects & Innovative Solutions
+- 🌟 **Passionate About:** Building scalable applications and learning new technologies
+- 📧 **Contact:** [sampath.m.chandimal99@gmail.com](mailto:sampath.m.chandimal99@gmail.com)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampathmenuka&theme=dark&hide_border=false&layout=compact" 
-    alt="Top Languages" 
-    width="500" 
-    height="200"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=sampathmenuka&theme=dark&hide_border=false" 
-    alt="GitHub Streak" 
-    width="500" 
-    height="200"
-  />
-</p>
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sampath-menuka-chandimal-50588a248)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/sampath.menuk9)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sampathwgw)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@pasindusmc909)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sampath.m.chandimal99@gmail.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### 🔥 Programming Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### � Frontend Development
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 📦 Package Managers
+![PNPM](https://img.shields.io/badge/PNPM-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sampathmenuka&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sampathmenuka&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampathmenuka&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- � Mastering **Spring Boot** and **Microservices Architecture**
+- 🌐 Contributing more to **Open Source Projects**
+- 🔧 Learning **DevOps** practices and **CI/CD** pipelines
+- 📱 Exploring **Mobile Development** with modern frameworks
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=sampathmenuka&style=for-the-badge&color=blue&label=Profile%20Views)
+![GitHub Followers](https://img.shields.io/github/followers/sampathmenuka?style=for-the-badge&color=blue&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/sampathmenuka?style=for-the-badge&color=yellow&label=Stars)
+
+**⭐ From [sampathmenuka](https://github.com/sampathmenuka)**
 
 </div>
