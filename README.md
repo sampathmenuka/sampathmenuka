@@ -77,16 +77,12 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="80%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampathmenuka&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </td>
-<td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sampathmenuka&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</td>
 </tr>
 </table>
 </div>
