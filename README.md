@@ -72,14 +72,14 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Analytics
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sampathmenuka&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampathmenuka&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </td>
 <td width="50%">
@@ -89,12 +89,6 @@
 </td>
 </tr>
 </table>
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampathmenuka&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-
 </div>
 
 ---
