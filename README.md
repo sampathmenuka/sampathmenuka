@@ -75,16 +75,11 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-<table>
-<tr>
-<td width="80%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampathmenuka&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
-</td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampathmenuka&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
-</tr>
-</table>
+
 </div>
 
 ---
